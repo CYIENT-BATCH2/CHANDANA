@@ -1,0 +1,4 @@
+ALGORITHM:W1D1Q10
+1.read three inputs from the user.
+2.find the largest number among those three inputs.
+3.print the largest number.
