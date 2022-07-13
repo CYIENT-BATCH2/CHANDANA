@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.read a message in the form of digits from the user.
+2.extract digit by digit and find the ASCII value of the character.
+3.decode each character and print it.
+*/
+
+
 #include <stdio.h>
 int main() {
   int num,sum=0,rem;
