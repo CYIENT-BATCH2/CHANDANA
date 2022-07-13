@@ -1,3 +1,10 @@
+/*
+ALGORITHM:
+1.two variables are initialized at compile time.
+2.evaluate given expression using increment and decrement operators.
+3.store the final value in variable 'k'.
+*/
+
 // Online C compiler to run C program online
 #include <stdio.h>
 int main() {
