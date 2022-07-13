@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.read choice from the user to convert celsius to farenheit or farenheit to celsius
+2.if user choice is celsius to farenheit,read the temparature in celsius and convert it into farenheit.
+3. if user choice is farenheit to celsius,read the temparature in farenheit and convert it into celsius.
+*/
+
+
 #include <stdio.h>
 int main() {
  float celsius,farenheit;
