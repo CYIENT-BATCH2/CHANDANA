@@ -1,3 +1,12 @@
+/*
+ALGORITHM:
+1.read the years from the user.
+2.find whether the year is leap or not
+3.if it is a leap year,count the year
+4.calculate total number of leap years and print it.
+*/
+
+
 // Online C compiler to run C program online
 #include <stdio.h>
 int main() {
