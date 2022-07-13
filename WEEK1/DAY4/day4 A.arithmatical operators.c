@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.three variables are initialized at compile time.
+2.evaluate given expression using arithmetic operators
+3.store the final value in variable 'k'.
+*/
+
+
 // Online C compiler to run C program online
 #include <stdio.h>
 int main() {
