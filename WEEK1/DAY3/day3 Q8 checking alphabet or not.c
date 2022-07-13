@@ -1,5 +1,11 @@
-#include <stdio.h>
+/*
+ALGORITHM
+1.read a character from the user
+2.find whether the character is alphabet or non alphabet
+3.if it is an alphabet print it as alphabet else print it as non alphabet.
+*/
 
+#include <stdio.h>
 int main() 
 {
     char ch;
