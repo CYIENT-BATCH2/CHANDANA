@@ -1,4 +1,16 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.read 8 integers and 7 float numbers from the user.
+2.calculate sum,average and mean of integers
+3.calculate sum,average and mean of float numbers
+4.divide sum of float with sum of int
+5.divide avg of float with avg of int
+6.typecast all float values into integers.
+
+
+*/
+
 #include <stdio.h>
 
 int main() {
