@@ -1,3 +1,10 @@
+/*
+ALGORITHM-W1D1Q3
+1.read a input as radius from the user.
+2.calculate the area of the garden.
+3.print the area.
+*/
+
 #include <stdio.h>
 int main() {
     float r,area;
