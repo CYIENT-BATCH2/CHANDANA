@@ -1,4 +1,0 @@
-ALGORITHM-W1D1Q5
-1.take 5 variables and assign the values at run time(in single digit only)
-2.check whether the values or even or odd
-3.print each value of the variable is as even or odd
