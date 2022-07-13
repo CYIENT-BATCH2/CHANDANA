@@ -1,8 +1,17 @@
+/*
+ALGORITHM:
+1.read a 10 digit number from the  user
+2.reverse the number
+3.print the reversed number of the original number.
+*/
+
+
 #include <stdio.h>
 int main() {
-  int n,rem,temp,sum=0;
+  long int n;
+  int rem,temp,sum=0;
   printf("enter a number:");
-  scanf("%d",&n);
+  scanf("%ld",&n);
   temp=n;
   while(n)
   {
