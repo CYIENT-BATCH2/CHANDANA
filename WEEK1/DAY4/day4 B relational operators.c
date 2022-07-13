@@ -1,3 +1,10 @@
+/*
+ALGORITHM:
+1.two variables are initialized at compile time.
+2.evaluate given expression using relational operators
+3.store the final value in variable 'z'.
+
+*/
 // Online C compiler to run C program online
 #include <stdio.h>
 int main() {
