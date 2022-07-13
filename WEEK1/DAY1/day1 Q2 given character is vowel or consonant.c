@@ -1,5 +1,11 @@
-#include <stdio.h>
+/*
+ALGORITHM:
+1.read a character from the user
+2.find the character whether it is vowel or consonant and print it
+*/
 
+
+#include <stdio.h>
 int main() {
     char ch;
     printf("enter a characater:");
