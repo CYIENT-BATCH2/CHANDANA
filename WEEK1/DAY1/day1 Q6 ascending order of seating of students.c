@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.read the seating numbers of 9 students.
+2.check consecutively whether they are in acending or not
+3.if not in order sort and print the order
+*/
+
+
 // Online C compiler to run C program online
 #include <stdio.h>
 int main() {
