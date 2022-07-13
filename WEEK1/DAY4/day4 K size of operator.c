@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.by using sizeof operator,find the size of the each data type and print it
+2.take the variables belongs to all data types
+3.find the sizeof the each  variable and print it.
+*/
+
+
 // Online C compiler to run C program online
 #include <stdio.h>
 
