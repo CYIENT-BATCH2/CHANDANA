@@ -1,3 +1,10 @@
+/*
+ALGORITHM:
+1.take 5 variables and assign the values at run time(in single digit only)
+2.check whether the values or even or odd
+3.print each value of the variable is as even or odd
+*/
+
 #include <stdio.h>
 int main() {
     int n1,n2,n3,n4,n5;
