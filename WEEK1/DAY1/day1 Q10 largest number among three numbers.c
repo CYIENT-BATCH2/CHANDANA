@@ -1,3 +1,10 @@
+/*
+ALGORITHM:
+1.read three inputs from the user.
+2.find the largest number among those three inputs.
+3.print the largest number.
+*/
+
 #include <stdio.h>
 int main() {
  int a,b,c;
