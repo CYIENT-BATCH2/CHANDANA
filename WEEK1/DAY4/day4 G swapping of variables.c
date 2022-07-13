@@ -1,3 +1,12 @@
+/*
+ALGORITHM:
+1.read two numbers from the user
+2.take one more variable as temp for swapping
+3.swap the numbers using third variable and print it
+4.swap the variables without using third variable and print it
+*/
+
+
 // Online C compiler to run C program online
 #include <stdio.h>
 
