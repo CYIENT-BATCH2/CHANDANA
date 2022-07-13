@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.read the no. of tickets from the user as input
+2.read the ticket numbers also
+3.count the tickets which are having digit as 3.
+*/
+
+
 #include <stdio.h>
 int main() {
   int rem,n,i,count=0;
