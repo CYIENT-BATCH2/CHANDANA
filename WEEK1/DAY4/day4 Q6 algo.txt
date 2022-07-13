@@ -1,4 +1,0 @@
-ALGORITHM-W1D4Q5
-1.two variables are initialized at compile time.
-2.evaluate given expression using shift operators.
-3.store the final value in variable 'k'.
