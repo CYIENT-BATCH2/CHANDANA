@@ -1,3 +1,10 @@
+/*
+ALGORITHM:
+1.read a 6 digit number from the user.
+2.check whether the number is having zero as digit or not
+3.if it is not having zero as digit,then reverse that number.
+*/
+
 #include <stdio.h>
 int main() {
     int n,rem,sum=0,temp=0;
