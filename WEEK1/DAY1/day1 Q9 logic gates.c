@@ -1,3 +1,9 @@
+/*
+ALGORITHM:
+1.read two inputs from the user.
+2.apply AND,OR,LOGICAL NOT gates for those inputs and print it
+*/
+
 #include <stdio.h>
 int main() {
  int n1,n2; 
