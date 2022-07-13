@@ -1,3 +1,11 @@
+/*
+ALGORITHM:
+1.read the phone number of the user 
+2.calculate sum of digits of that phn number
+3.print the final sum
+*/
+
+
 #include <stdio.h>
 int main() {
  long int n;
