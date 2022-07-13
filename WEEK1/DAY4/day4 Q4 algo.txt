@@ -1,4 +1,0 @@
-ALGORITHM-W1D4Q4
-1.three variables are initialized at compile time.
-2.evaluate given expression using bitwise operators.
-3.store the final value in variable 'k'.
