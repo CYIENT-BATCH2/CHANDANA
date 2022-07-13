@@ -1,4 +1,0 @@
-ALGORITHM-W1D2Q2
-1.read a 2digit number from the user
-2.convert the number in binary
-3.print the binary of the user input.
