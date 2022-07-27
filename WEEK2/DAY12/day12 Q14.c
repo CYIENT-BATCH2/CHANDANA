@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+
+/*
+1.taking  three different arrays 
+2.checking each element with fallow of three loops checking the combinations ofg three arrays
+3.print if any common elements found
+*/
 #include <stdio.h>
 int main() {
     // Write C code here
