@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.take one byte of data.
+2.find whether it is little endian or big endian.
+3.if it is little endian convert it to big endian.
+*/
+
 #include <stdio.h>
 
 int main() {
