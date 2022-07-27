@@ -1,6 +1,10 @@
 // Online C compiler to run C program online
 /*
-1.read a data
+1.initialisation  with compile time array having its column size is 10
+2.using string compare function checking empty string
+3. after finding replace that empty array to "CYIENT" 
+4.print the array after  modification.
+
 */
 #include <stdio.h>
 #include<string.h>
