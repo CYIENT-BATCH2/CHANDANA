@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.read a variable named as ADCONO.
+2.set the bit positions of 3,4 and 5.
+3.clear the bit positions of 1,2,3,4 
+*/
 #include <stdio.h>
 
 int main() {
