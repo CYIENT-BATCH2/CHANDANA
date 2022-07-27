@@ -1,6 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.read a variable named as SSPSTAT.
+2.clear the bit positions of 4,5 and 7.
+3.find out the bit postions of 1,2 and 8.
+*/
 #include <stdio.h>
-
 int main() {
     // Write C code here
     int SSPSTAT=0x55;
