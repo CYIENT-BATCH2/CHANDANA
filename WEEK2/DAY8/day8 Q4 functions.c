@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.read two variables named as byte and bit from the user.
+2.take a function with two arguments as byte and bit.
+3.clear the bit position of particular byte based on user input.
+*/
 #include <stdio.h>
 void fun(int a,int b);
   int num=0x12345678;
