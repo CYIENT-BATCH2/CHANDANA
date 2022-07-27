@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.read an variable named as ADCONO
+2.set the bit positions of 4,7 and 8.
+3.findout the biot positions of 4,7 and 8. and print it.
+*/
+
 #include <stdio.h>
 int main() {
     // Write C code here
