@@ -1,7 +1,7 @@
 // Online C compiler to run C program online
 /*
 1.read an array of 5 elements 
-2. calcu;late the values of elements based on condition 
+2. calculate the values of elements based on condition 
 3.pass an array to function
 4.print the elements of a function
 
