@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1. read a function named as G_Msg_SteeringInformation_Byte with size iof three elements
+2. calculate values  of array to function 
+3.print all elements of an array using function
+
+*/
 #include <stdio.h>
 void fun(unsigned char G_Msg_SteeringInformation_Byte[],int n);
 int main() {
