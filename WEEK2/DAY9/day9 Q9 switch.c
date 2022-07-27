@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.read a variable named as G_Msg_switchstatus_Byte
+2.caluculate the elements of array based on  given  condition 
+3. take a function and pass an array to a function 
+4. print all elements of an array usingv function
+*/
 #include <stdio.h>
 void fun(unsigned char G_Msg_switchstatus_Byte[],int n);
 int main() {
