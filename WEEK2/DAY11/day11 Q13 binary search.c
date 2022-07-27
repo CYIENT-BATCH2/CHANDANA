@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1. take a sorted array find out the root element 
+2.read a no.. from user and search with given element
+3.if that given element frater than root  searvch from zeroth index to root .
+4.print the element after searched .
+*/
 #include <stdio.h>
 
 int main() {
