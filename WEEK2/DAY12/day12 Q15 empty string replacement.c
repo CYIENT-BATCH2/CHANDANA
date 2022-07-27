@@ -1,4 +1,7 @@
 // Online C compiler to run C program online
+/*
+1.read a data
+*/
 #include <stdio.h>
 #include<string.h>
 int main() {
